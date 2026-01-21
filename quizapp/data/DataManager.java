@@ -261,7 +261,7 @@ public class DataManager {
     }
 
     /**
-     * Gets the data folder path. Uses the 'quiz-proje' folder which contains both 'src' and CSV files.
+     * Gets the data folder path. Uses the 'quiz-proje' folder which contains both 'src' and CSV files this only added for while working with multiples ides to avoid dublication on devolopment on real world usage program will work independent from folder or path name.
      * Always returns an absolute path to prevent duplicate files.
      */
     public static String getDataFolder() {
@@ -696,3 +696,4 @@ public class DataManager {
     }
 
 }
+
