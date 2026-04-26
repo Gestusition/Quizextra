@@ -293,7 +293,7 @@ java -cp "out;lib/*" com.quizapp.test.TestRunner
 
 ---
 
-## 👤 Author
+## 👤 Developer
 
 **Kıraç Polatkan**  
 Computer Engineering Student
