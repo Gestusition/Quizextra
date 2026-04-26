@@ -4,7 +4,7 @@ A comprehensive Object-Oriented (OOP) console-based quiz management system built
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 Main Menu
 
 <img width="373" height="228" alt="image" src="https://github.com/user-attachments/assets/857bede8-0190-4190-95b8-5c662d79a3e3" />
